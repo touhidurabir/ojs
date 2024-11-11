@@ -26,6 +26,7 @@
   "author.users.contributor.principalContact",
   "author.users.contributor.setPrincipalContact",
   "common.add",
+  "common.active",
   "common.addCCBCC",
   "common.assign",
   "common.attachFiles",
@@ -57,6 +58,10 @@
   "common.findTemplate",
   "common.geographic",
   "common.id",
+<<<<<<< HEAD
+=======
+  "common.inactive",
+>>>>>>> 5bce13e418 (pkp/pkp-lib#1660 updated registry ui locale keys)
   "common.insert",
   "common.insertContent",
   "common.insertContentSearch",
