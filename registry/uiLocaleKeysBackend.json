@@ -41,7 +41,6 @@
   "common.confirmDelete",
   "common.content",
   "common.dateUploaded",
-  "common.deactivate",
   "common.default",
   "common.delete",
   "common.description",
@@ -61,9 +60,12 @@
   "common.geographic",
   "common.id",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   "common.inactive",
 >>>>>>> 5bce13e418 (pkp/pkp-lib#1660 updated registry ui locale keys)
+=======
+>>>>>>> 2a3da29a45 (pkp/pkp-lib#1660 ui locale backend keys update)
   "common.insert",
   "common.insertContent",
   "common.insertContentSearch",
@@ -524,7 +526,6 @@
   "submission.list.revisionsSubmitted",
   "submission.production",
   "submission.publication",
-  "submission.recommendation",
   "submission.review",
   "submission.stage.externalReviewWithRound",
   "submission.stage.internalReviewWithRound",
