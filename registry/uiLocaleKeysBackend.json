@@ -439,6 +439,8 @@
   "publication.version.confirm",
   "reviewer.article.recommendation",
   "reviewer.competingInterests",
+  "reviewer.recommendation.list.name.title",
+  "reviewer.recommendation.list.status.title",
   "reviewer.recommendation.management.options",
   "reviewer.submission.acceptedOn",
   "reviewer.submission.responseDueDate",
