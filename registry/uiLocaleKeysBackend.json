@@ -58,6 +58,7 @@
   "common.filtersClear",
   "common.findTemplate",
   "common.geographic",
+<<<<<<< HEAD
   "common.id",
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -66,6 +67,8 @@
 >>>>>>> 5bce13e418 (pkp/pkp-lib#1660 updated registry ui locale keys)
 =======
 >>>>>>> 2a3da29a45 (pkp/pkp-lib#1660 ui locale backend keys update)
+=======
+>>>>>>> 249e4f1e0f (pkp/pkp-lib#1660 ui locale backend keys update)
   "common.insert",
   "common.insertContent",
   "common.insertContentSearch",
@@ -439,8 +442,6 @@
   "publication.version.confirm",
   "reviewer.article.recommendation",
   "reviewer.competingInterests",
-  "reviewer.recommendation.list.name.title",
-  "reviewer.recommendation.list.status.title",
   "reviewer.recommendation.management.options",
   "reviewer.submission.acceptedOn",
   "reviewer.submission.responseDueDate",
