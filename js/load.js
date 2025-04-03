@@ -19,6 +19,7 @@ import Container from '@/components/Container/Container.vue';
 import AdvancedSearchReviewerContainer from '@/components/Container/AdvancedSearchReviewerContainer.vue';
 import Page from '@/components/Container/Page.vue';
 import WorkflowPageOJS from '@/pages/workflow/WorkflowPageOJS.vue';
+import SciFlowEditor from '@/pages/workflow/components/publication/SciFlowEditor.vue';
 
 import AccessPage from '@/components/Container/AccessPage.vue';
 import AddContextContainer from '@/components/Container/AddContextContainer.vue';
@@ -40,6 +41,7 @@ import DashboardPage from '@/pages/dashboard/DashboardPage.vue';
 // Helper for initializing and tracking Vue controllers
 import VueRegistry from '../lib/pkp/js/classes/VueRegistry.js';
 VueRegistry.registerComponent('WorkflowPage', WorkflowPageOJS);
+VueRegistry.registerComponent('SciFlowEditor', SciFlowEditor);
 
 // Expose Vue, the registry and controllers in a global var
 window.pkp = Object.assign(PkpLoad, window.pkp || {}, {
@@ -63,5 +65,6 @@ window.pkp = Object.assign(PkpLoad, window.pkp || {}, {
 		StatsUsersPage,
 		SubmissionWizardPage,
 		DashboardPage,
+		SciFlowEditor,
 	},
 });
